@@ -57,3 +57,6 @@ contract MetaEdgeChain {
         return (asset.id, asset.name, asset.creator, asset.currentOwner);
     }
 }
+// 
+update
+// 
